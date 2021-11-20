@@ -14,4 +14,4 @@ X = np.hstack((x,np.ones(x.shape)))
 
 print(X)
 
-#Deuxieme version
+#Deuxieme version made in Mohamed
